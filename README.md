@@ -1,3 +1,18 @@
+#OUTPUT#:
+
+
+
+
+![Screenshot 2024-08-26 174700](https://github.com/user-attachments/assets/0bb499f1-830d-4a29-bd58-7895cebfe411)
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
