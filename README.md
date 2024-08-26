@@ -1,9 +1,14 @@
-#OUTPUT#:
+OUTPUT :-
 
 
 
 
 ![Screenshot 2024-08-26 174700](https://github.com/user-attachments/assets/0bb499f1-830d-4a29-bd58-7895cebfe411)
+
+
+ A user interface quote application has been developed utilizing React Native for an internship focused on Android app development.
+
+ quote app offers a fresh and inspiring quote each day. Users have the option to refresh the quote by utilizing the new quote button. Additionally, quotes can be listened to by simply pressing the volume up button, and users can share their favorite quotes anywhere effortlessly using the copy button. There is also a dedicated button for sharing quotes on Twitter.
 
 
 
